@@ -1,0 +1,2 @@
+# Solana-Coin
+mooncake token
