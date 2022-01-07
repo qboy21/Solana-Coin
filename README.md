@@ -1,3 +1,3 @@
 # Solana-Coin
 mooncake token
-© Copyright 2001 qboy21. All Rights Reserved.
+© Copyright 2021 qboy21. All Rights Reserved.
